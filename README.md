@@ -64,12 +64,4 @@ This project reflects the ability to:
 - Add topic history and favorite explanations
 - Improve model selection and prompt customization
 
-## Author
 
-**Name:** Your Name  
-**Role:** B.Tech Student, IIT Roorkee  
-**Interests:** AI, full-stack web development, real-world product building
-
----
-
-If you are a recruiter or hiring manager, I would be happy to walk you through architecture decisions, API design choices, and possible production upgrades for this app.
